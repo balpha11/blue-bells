@@ -9,17 +9,16 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import '../css/app.css';
 
-
 // Import Bootstrap Icons CSS
 import 'bootstrap-icons/font/bootstrap-icons.css';
 
 // Import Vue Router
-import router from '../router'; // Ensure this path is correct based on your project structure
+import router from '../router'; // Ensure the path is correct
 
 const app = createApp(App);
 
-// Tell Vue to use the router
+// Use Vue Router
 app.use(router);
 
-// Mount the app to the DOM
+// Mount the Vue app
 app.mount('#app');

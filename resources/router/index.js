@@ -20,7 +20,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/blue-bells/'), // Important for GitHub Pages
   routes,
 });
 

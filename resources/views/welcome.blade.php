@@ -3,12 +3,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Blue bells  Goods Trading Company</title>
+  <title>Blue Bells Goods Trading Company</title>
   @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
 <body>
-  <div id="app">
-    <home-page></home-page>
-  </div>
+  <div id="app"></div> <!-- Vue will mount here -->
 </body>
 </html>
