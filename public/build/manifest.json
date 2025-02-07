@@ -40,7 +40,7 @@
     "src": "node_modules/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
   },
   "resources/js/app.css": {
-    "file": "assets/app-86638af9.css",
+    "file": "assets/app-fb8f6cc1.css",
     "src": "resources/js/app.css"
   },
   "resources/js/app.js": {
@@ -57,9 +57,9 @@
       "assets/bootstrap-icons-bb1de989.woff"
     ],
     "css": [
-      "assets/app-86638af9.css"
+      "assets/app-fb8f6cc1.css"
     ],
-    "file": "assets/app-61bdb51c.js",
+    "file": "assets/app-1e4d17a8.js",
     "isEntry": true,
     "src": "resources/js/app.js"
   },
